@@ -22,6 +22,7 @@ python3 emojisaic.py -g [fielname.gif] (for a gif)
 - -c, --coverage [int] - generally the emoji finder will use the emoji that is closest to the color for a given pixel area. setting this will prefer emojis with fewer transparent pixels which sometimes looks better
 - -q, --quiet - be quiet! no output in this mode
 - -t, --tmp - remove all temp files (use by itself)
+- -m, --mapping - generate new emoji color map (use by itself)
 - --help - show options
 
 ### Example
