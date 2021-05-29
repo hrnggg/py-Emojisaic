@@ -23,3 +23,6 @@ python3 emojisaic.py -g [fielname.gif] (for a gif)
 - -q, --quiet - be quiet! no output in this mode
 - -t, --tmp - remove all temp files (use by itself)
 - --help - show options
+
+### Example
+![example](https://user-images.githubusercontent.com/84313258/120087380-57bd3a80-c122-11eb-842b-08dd5de5bb92.gif)
