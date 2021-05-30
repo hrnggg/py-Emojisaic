@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ### How to use
 ```
 python3 emojisaic.py -i [filename.jpg] (for still image) or 
-python3 emojisaic.py -g [fielname.gif] (for a gif)
+python3 emojisaic.py -g [filename.gif] (for a gif)
 ```
 
 ### Options
